@@ -1,6 +1,8 @@
 # SpoofMyDevice Devices
 
-Device preset files for `SpoofMyDevice`, based on deviceinfohw database.
+Device preset files for `SpoofMyDevice`, some props taken from [Device Info HW Database](https://deviceinfohw.ru/devices/), then the rest is filled by Gemini AI
+
+Some props may not be accurate, use with caution.
 
 Each preset lives in the repository root as a single JSON file such as:
 
