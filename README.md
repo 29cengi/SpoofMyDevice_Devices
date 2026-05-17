@@ -1,6 +1,6 @@
 # SpoofMyDevice Devices
 
-Community-maintained device preset files for `SpoofMyDevice`.
+Device preset files for `SpoofMyDevice`, based on deviceinfohw database.
 
 Each preset lives in the repository root as a single JSON file such as:
 
