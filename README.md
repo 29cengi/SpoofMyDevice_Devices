@@ -1,4 +1,4 @@
-# SpoofMyDevice Devices
+# SpoofMyDevice Presets
 
 Device preset files for [SpoofMyDevice](https://github.com/BuSung-dev/SpoofMyDevice), some props taken from [Device Info HW Database](https://deviceinfohw.ru/devices/), then the rest is filled by Gemini AI
 
