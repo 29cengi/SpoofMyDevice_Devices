@@ -1,6 +1,6 @@
 # SpoofMyDevice Presets
 
-Device preset files for [SpoofMyDevice](https://github.com/BuSung-dev/SpoofMyDevice), some props taken from [Device Info HW Database](https://deviceinfohw.ru/devices/), then the rest is filled by Gemini AI
+Device preset files for [SpoofMyDevice](https://github.com/BuSung-dev/SpoofMyDevice), props based from [Device Info HW Database](https://deviceinfohw.ru/devices/), then the rest is filled by Gemini AI
 
 
 
@@ -29,7 +29,7 @@ Each preset lives in the repository root as a single JSON file such as:
 The app reads root-level `.json` files from this repository and turns them into selectable presets.
 
 ## AI Policy
-This project involves the use of AI. Some props may not be accurate, use with caution.
+This fork involves the use of AI to fill in the props, which may not be accurate, use with caution.
 
 ## Fork
 This is a fork of BuSung-dev/SpoofMyDevice_Devices.
