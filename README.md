@@ -1,6 +1,6 @@
 # SpoofMyDevice Presets
 
-Device preset files for [SpoofMyDevice](https://github.com/BuSung-dev/SpoofMyDevice), props based from [Device Info HW Database](https://deviceinfohw.ru/devices/), then the rest is filled by Gemini AI. It is generated if not available or missing.
+Device preset files for [SpoofMyDevice](https://github.com/BuSung-dev/SpoofMyDevice), props based from [Device Info HW Database](https://deviceinfohw.ru/devices/), then the rest is filled by Gemini AI. It is generated if unavailable or missing.
 Device models are mostly global variants, with philippine region.
 
 
