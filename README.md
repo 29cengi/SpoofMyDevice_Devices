@@ -28,11 +28,11 @@ Each preset lives in the repository root as a single JSON file such as:
 
 The app reads root-level `.json` files from this repository and turns them into selectable presets.
 
-## How To Import
-1. Launch [SpoofMyDevice](https://github.com/BuSung-dev/SpoofMyDevice).
-2. Go to Settings > Presets > Preset source URL.
-3. Select Custom and paste GitHub repository URL.
-4. Force close and restart app.
+## How To Import Presets
+1. Launch [SpoofMyDevice](https://github.com/BuSung-dev/SpoofMyDevice)
+2. Go to Settings > Presets > Preset source URL
+3. Select Custom and paste GitHub repository URL
+4. Force close and restart app
 
 
 ## Disclaimer
