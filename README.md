@@ -28,6 +28,9 @@ Each preset lives in the repository root as a single JSON file such as:
 
 The app reads root-level `.json` files from this repository and turns them into selectable presets.
 
+## Disclaimer
+This project is intended for research, testing, educational purposes, and authorized use only. Make sure your use complies with local laws, platform rules, and the policies of the apps you test.
+
 ## AI Policy
 This fork involves the use of AI to generate missing/unavailable props, which may not be accurate, use with caution. You've been warned!
 
