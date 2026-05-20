@@ -26,12 +26,12 @@
                     "screenWidth":  1440,
                     "screenHeight":  3120,
                     "screenDensity":  500,
-                    "operatorAlpha":  "T-Mobile",
-                    "operatorNumeric":  "310260",
-                    "simOperatorAlpha":  "T-Mobile",
-                    "simOperatorNumeric":  "310260",
-                    "simCountryIso":  "us",
-                    "timezone":  "America/Los_Angeles",
+                    "operatorAlpha":  "Globe",
+                    "operatorNumeric":  "51502",
+                    "simOperatorAlpha":  "Globe",
+                    "simOperatorNumeric":  "51502",
+                    "simCountryIso":  "ph",
+                    "timezone":  "Asia/Manila",
                     "socModel":  "Snapdragon 8 Elite for Galaxy",
                     "socManufacturer":  "Qualcomm"
                 }
