@@ -32,7 +32,7 @@ The app reads root-level `.json` files from this repository and turns them into 
 1. Launch [SpoofMyDevice](https://github.com/BuSung-dev/SpoofMyDevice)
 2. Go to Settings > Presets > Preset source URL
 3. Select Custom and paste GitHub repository URL
-4. Wait 30 seconds more or less after importing preset URL
+4. Wait up to 1 minute after importing preset URL
 
 
 ## Disclaimer
