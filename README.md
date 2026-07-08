@@ -31,7 +31,7 @@ The app reads root-level `.json` files from this repository and turns them into 
 ## How To Import Presets
 1. Launch [SpoofMyDevice](https://github.com/BuSung-dev/SpoofMyDevice)
 2. Go to Settings > Presets > Preset source URL
-3. Select Custom and paste GitHub repository URL
+3. Select Custom and paste GitHub repository URL with ".git" at the end
 4. Wait after importing preset URL
 
 
